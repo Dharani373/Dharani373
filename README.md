@@ -9,6 +9,7 @@ I’m passionate about designing practical, student-focused technology solutions
 
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/dharanikr/
+ 
 - Email: krdharani777@gmail.com
 
 ---
@@ -22,7 +23,8 @@ I’m passionate about designing practical, student-focused technology solutions
 ---
 
 ## 📌 Featured Projects
-🔹 **MindCare - Digital Mental Health Support System** — Web app supporting student well-being  
+🔹 **MindCare - Digital Mental Health Support System** — Web app supporting student well-being 
+
 🔹 **Forever - E-Commerce Website** — End-to-end shopping platform  
 
 > Each project reflects real-world problem solving, clean structure, and iterative learning.
@@ -30,8 +32,10 @@ I’m passionate about designing practical, student-focused technology solutions
 ---
 
 ## 🎯 What I’m Working On
-- Strengthening data structures & algorithms  
-- Building more backend-focused projects  
+- Strengthening data structures & algorithms
+   
+- Building more backend-focused projects
+  
 - Learning deployment and scalable architectures  
 
 ---
