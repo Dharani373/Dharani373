@@ -2,14 +2,13 @@
 
 🎓 B.Tech — Computer Science & Engineering  
 
-💻 Developer | 📚 Lifelong Learner | 🚀 Problem Solver  
+ Developer |  Lifelong Learner |  Problem Solver  
 
 I’m passionate about designing practical, student-focused technology solutions, with a strong interest in web development and backend systems. Here on GitHub, I document my growth through real projects, experiments, and continuous iteration — turning concepts into working, meaningful software.
 ---
 
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/dharanikr/
-- Portfolio: https://your-portfolio-link  
 - Email: krdharani777@gmail.com
 
 ---
