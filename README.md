@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Dharani
+# 👋 Hi there, I'm Dharani
 
 🎓 B.Tech — Computer Science & Engineering  
 
  Developer |  Lifelong Learner |  Problem Solver  
 
-I’m passionate about designing practical, student-focused technology solutions, with a strong interest in web development and backend systems. Here on GitHub, I document my growth through real projects, experiments, and continuous iteration — turning concepts into working, meaningful software.
+I’m passionate about building practical, student-focused tech solutions, with a strong interest in web development and backend systems.  
+On GitHub, I document my journey through real projects, experiments, and continuous improvement — turning ideas into working software.
+
 ---
 
 ## 🌐 Connect With Me
@@ -32,12 +34,17 @@ I’m passionate about designing practical, student-focused technology solutions
 ---
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dharani373&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani373&show_icons=true&rank_icon=github&include_all_commits=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Dharani373" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dharani373" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani373&layout=compact" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani373&layout=compact" />
+</p>
 ---
 
 ## 🎯 What I’m Working On
