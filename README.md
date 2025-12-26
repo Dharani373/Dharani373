@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dharani
 
 🎓 B.Tech — Computer Science & Engineering  
+
 💻 Developer | 📚 Lifelong Learner | 🚀 Problem Solver  
 
 I’m passionate about designing practical, student-focused technology solutions, with a strong interest in web development and backend systems. Here on GitHub, I document my growth through real projects, experiments, and continuous iteration — turning concepts into working, meaningful software.
@@ -26,12 +27,6 @@ I’m passionate about designing practical, student-focused technology solutions
 🔹 **Forever - E-Commerce Website** — End-to-end shopping platform  
 
 > Each project reflects real-world problem solving, clean structure, and iterative learning.
-
----
-
-## 📊 GitHub Highlights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
 
 ---
 
