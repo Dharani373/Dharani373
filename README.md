@@ -38,6 +38,7 @@ I’m passionate about designing practical, student-focused technology solutions
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani373&layout=compact&theme=dark)
 
+
 ---
 
 ## 🎯 What I’m Working On
