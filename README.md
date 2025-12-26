@@ -32,12 +32,11 @@ I’m passionate about designing practical, student-focused technology solutions
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dharani373&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Dharani373&show_icons=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharani373&show_icons=true&theme=dark)
+<img src="https://streak-stats.demolab.com?user=Dharani373" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani373&layout=compact&theme=dark)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani373&layout=compact" />
 
 ---
 
