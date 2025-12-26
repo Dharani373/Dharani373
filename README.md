@@ -30,6 +30,15 @@ I’m passionate about designing practical, student-focused technology solutions
 > Each project reflects real-world problem solving, clean structure, and iterative learning.
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dharani373&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharani373&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani373&layout=compact&theme=dark)
+
+---
 
 ## 🎯 What I’m Working On
 - Strengthening data structures & algorithms
