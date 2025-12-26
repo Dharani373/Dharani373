@@ -35,15 +35,7 @@ On GitHub, I document my journey through real projects, experiments, and continu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharani373&show_icons=true&rank_icon=github&include_all_commits=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Dharani373" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani373&layout=compact" />
 </p>
 ---
 
@@ -57,5 +49,6 @@ On GitHub, I document my journey through real projects, experiments, and continu
 ---
 
 ### ✨ Personal Note
-I believe great software is built through curiosity, consistency, and collaboration.  
+I believe great software is built through curiosity, consistency, and collaboration.
+
 If you’d like to connect, learn together, or build something — feel free to reach out!
