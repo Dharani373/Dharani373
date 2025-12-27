@@ -18,8 +18,11 @@ On GitHub, I document my journey through real projects, experiments, and continu
 
 ## 🛠️ Tech Stack
 **Languages:** Python, C, Java, JavaScript  
+
 **Web:** Django, Node.js, HTML, CSS  
+
 **Database:** MongoDB, SQLite  
+
 **Tools:** Git, GitHub, VS Code, Postman  
 
 ---
