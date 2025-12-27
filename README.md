@@ -35,10 +35,11 @@ On GitHub, I document my journey through real projects, experiments, and continu
 > Each project reflects real-world problem solving, clean structure, and iterative learning.
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dharani373" />
+  <img src="https://streak-stats.demolab.com?user=Dharani373&theme=github-dark&ring=5DADE2&fire=5DADE2&currStreakLabel=5DADE2&dates=9BA3B5" />
 </p>
 
 ---
