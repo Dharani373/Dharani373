@@ -8,22 +8,38 @@ I’m passionate about building practical, student-focused tech solutions, with 
 On GitHub, I document my journey through real projects, experiments, and continuous improvement — turning ideas into working software.
 
 ---
-
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dharanikr/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="30" style="margin-right:25px;" />
-  </a>
-
-  <a href="mailto:krdharani777@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="30" width="30" style="margin-right:25px;" />
-  </a>
-
-  <a href="https://leetcode.com/u/Dharani_777/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" width="30" />
-  </a>
+<p align>
+ Open to collaboration, learning opportunities, and tech discussions.<br>
+ 
+ Feel free to connect, solve problems together, or explore new ideas!
 </p>
+
+<p align="center">
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/dharanikr/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35"/>
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:krdharani777@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail" height="35" width="35"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://leetcode.com/u/Dharani_777/">
+<img src="https://cdn.simpleicons.org/leetcode" height="35" width="35"/>
+</a>
+</td>
+</tr>
+</table>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
