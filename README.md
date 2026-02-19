@@ -10,10 +10,20 @@ On GitHub, I document my journey through real projects, experiments, and continu
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/dharanikr/
- 
-- Email: krdharani777@gmail.com
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/dharanikr/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="30" style="margin-right:25px;" />
+  </a>
+
+  <a href="mailto:krdharani777@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="30" width="30" style="margin-right:25px;" />
+  </a>
+
+  <a href="https://leetcode.com/u/Dharani_777/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" width="30" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
